@@ -1,34 +1,19 @@
-Usage
+User Manual
 =====
 
 .. _installation:
 
-Installation
+Introduction
 ------------
 
-To use Lumache, first install it using pip:
+To use the soft robotics rig, first consult Isaiah Rivera:
 
-.. code-block:: console
 
-   (.venv) $ pip install lumache
-
-Creating recipes
+Assembly Guide
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+PCB Layout:
 
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
+Block Diagram: 
 
 For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
