@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Soft Robotics Pressure Rig System'
-copyright = '2025, Cooper Union'
+copyright = '2025, The Cooper Union'
 author = 'Isaiah Rivera and Ani Vardanyan'
 
 release = '1.0'
