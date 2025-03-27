@@ -15,5 +15,8 @@ Assembly Guide
 PCB Layout:
 
 Block Diagram: 
+.. image:: images/Pressure_Rig_Block_Diagram.jpg
+  :width: 400
+  :alt: Alternative text
 
 For example:
