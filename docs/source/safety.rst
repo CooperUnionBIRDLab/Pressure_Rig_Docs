@@ -23,6 +23,7 @@ The Tank
 Common Failure Points
 ------
 
+.. _dangers:
 Dangers
 ------
 - Don't fill up the tank past XXX psi
