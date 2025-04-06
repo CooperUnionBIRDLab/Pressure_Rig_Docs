@@ -22,8 +22,8 @@ Contents
 
    usage
    api
-   Firmware User Guide
-   Hardware User Guide
-   Safety Manual
-   Maintenance
+   firmware_guide
+   hardware_guide
+   safety
+   maintenance
    
