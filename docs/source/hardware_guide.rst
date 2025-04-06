@@ -19,7 +19,7 @@ For example:
 How Do You Start a Test?
 ------
 
-BEFORE YOU START A TEST, PLEASE READ THROUGH the [dangers] SECTION!
+BEFORE YOU START A TEST, PLEASE READ THROUGH THE :ref:`dangers` SECTION!
 
 How Do You End a Test?
 ------
