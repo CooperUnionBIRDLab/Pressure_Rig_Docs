@@ -7,11 +7,11 @@ Pico Set-Up
 --------------
 The microcontroller we use is the Raspberry Pi Pico. If you’ve never used the pico before here are some great starting resources and tutorials. 
 
-`Raspberry Pi Pico Datasheet <https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf>`
+`Raspberry Pi Pico Datasheet <https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf>`_
 
-`How to setup Pico sdk on your system <https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html >`
+`How to setup Pico sdk on your system <https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html >`_
 
-`Beginner Tutorial Video (Windows Setup) <https://www.youtube.com/watch?v=L03jT5slWnw >`
+`Beginner Tutorial Video (Windows Setup) <https://www.youtube.com/watch?v=L03jT5slWnw >`_
 
 Github Set-Up
 -------------
