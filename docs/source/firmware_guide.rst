@@ -11,9 +11,9 @@ The microcontroller we use is the Raspberry Pi Pico. If you’ve never used the 
 
 `Raspberry Pi Pico Datasheet <https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf>`_
 
-`How to setup Pico sdk on your system <https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html >`_
+`How to setup Pico sdk on your system <https://www.raspberrypi.com/documentation/microcontrollers/c_sdk.html>`_
 
-`Beginner Tutorial Video (Windows Setup) <https://www.youtube.com/watch?v=L03jT5slWnw >`_
+`Beginner Tutorial Video (Windows Setup) <https://www.youtube.com/watch?v=L03jT5slWnw>`_
 
 Github Set-Up
 -------------
