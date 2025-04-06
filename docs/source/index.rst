@@ -21,7 +21,6 @@ Contents
    :caption: Overview
 
    usage
-   api
    firmware_guide
    hardware_guide
    safety
