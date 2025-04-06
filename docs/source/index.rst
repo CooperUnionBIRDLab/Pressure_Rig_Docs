@@ -17,7 +17,7 @@ Contents
    :maxdepth: 2
    :caption: Overview
 
-   usage
+   user_manual
    firmware_guide
    hardware_guide
    safety
