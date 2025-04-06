@@ -17,6 +17,13 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Overview
 
    usage
    api
+   Firmware User Guide
+   Hardware User Guide
+   Safety Manual
+   Maintenance
+   
