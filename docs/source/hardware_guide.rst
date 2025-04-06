@@ -4,7 +4,7 @@ Hardware User Guide
 Assembly Overview
 -------
 
-:: Code Block ::
+`Code Block`
 
 PCB Layout:
 ^^^^^^
