@@ -2,7 +2,7 @@ Hardware User Guide
 =================
 Block Diagram: 
 ^^^^^^
-.. image:: images/Pressure_Rig_Block_Diagram.jpg
+.. image:: images/Screenshot from 2025-05-17 19-57-13.png
    :width: 600
    :alt: Alternative Text
 
