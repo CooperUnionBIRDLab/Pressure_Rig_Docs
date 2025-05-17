@@ -6,9 +6,6 @@ Block Diagram:
    :width: 600
    :alt: Alternative Text
 
-Hardware User Guide
-==================
-
 Power Switch:
 -------------
 Show image of Switch 1 from Block Diagram →
