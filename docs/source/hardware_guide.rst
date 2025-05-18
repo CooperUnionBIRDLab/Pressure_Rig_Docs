@@ -2,7 +2,7 @@ Hardware User Guide
 =================
 Block Diagram: 
 ^^^^^^
-.. image:: images/Screenshot from 2025-05-17 19-57-13.png
+.. image:: images/block.png
    :width: 600
    :alt: Alternative Text
 
