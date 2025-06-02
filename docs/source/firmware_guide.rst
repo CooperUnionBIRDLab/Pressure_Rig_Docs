@@ -31,8 +31,7 @@ You should see the following directory structure
    pressure_rig_firmware/
    ├── CMakeLists.txt
    ├── README.md
-   └── src/
-       └── pressure_rig_16.cpp
+   └── pressure_rig_16.cpp
  
 Here is a breakdown of each file
 
@@ -44,17 +43,23 @@ VS Code Extension Instructions
 ------------------------------
 In VsCode install the Raspberry Pi Pico Extension 
 
-[image] 
+.. image:: images/Pico_Extension.png
+   :width: 600
+   :alt: Alternative Text
 
 Click on the extension and press **Import Project**
 
-[image]
+.. image:: images/Pico_Select_Import.png
+   :width: 600
+   :alt: Alternative Text
 
 Locate the repostory we cloned earlier and set the Pico SDK Version to v1.5.1
 
-
 Then once everything is loaded go back and press **Run Project**
 
+.. image:: images/Pico_Select_Run.png
+   :width: 600
+   :alt: Alternative Text
 
 Command Line Instructions
 ------------------------------
