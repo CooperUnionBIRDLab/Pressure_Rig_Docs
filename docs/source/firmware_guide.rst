@@ -55,7 +55,7 @@ Click on the extension and press **Import Project**
 
 Locate the repostory we cloned earlier and set the Pico SDK Version to v1.5.1
 
-.. image:: images/Pico_Setting.png
+.. image:: images/Pico_Settings.png
    :width: 600
    :alt: Alternative Text
 
