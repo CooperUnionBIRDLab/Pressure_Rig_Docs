@@ -40,6 +40,21 @@ Here is a breakdown of each file
 
 **pressure_rig_16.cpp**: Contains the core firmware code that runs on the Raspberry Pi Pico and interfaces directly with the Pressure Rig hardware.
 
+VS Code Extension Instructions 
+------------------------------
+In VsCode install the Raspberry Pi Pico Extension 
+
+[image] 
+
+Click on the extension and press **Import Project**
+
+[image]
+
+Locate the repostory we cloned earlier and set the Pico SDK Version to v1.5.1
+
+
+Then once everything is loaded go back and press **Run Project**
+
 
 Command Line Instructions
 ------------------------------
