@@ -55,6 +55,10 @@ Click on the extension and press **Import Project**
 
 Locate the repostory we cloned earlier and set the Pico SDK Version to v1.5.1
 
+.. image:: images/Pico_Setting.png
+   :width: 600
+   :alt: Alternative Text
+
 Then once everything is loaded go back and press **Run Project**
 
 .. image:: images/Pico_Select_Run.png
